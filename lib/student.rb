@@ -9,6 +9,6 @@ attr_accessor :name
   end
 
   def raise_hand
-    return "Pick me!\n"
+    puts "Pick me!\n"
   end
 end
